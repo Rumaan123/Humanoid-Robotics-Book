@@ -31,7 +31,15 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+### Compliance Verification
+- **Technical Accuracy**: All technical claims must be verified against official documentation, primary sources, or peer-reviewed research
+- **Clarity & Precision**: Content must be structured for CS/software engineering audience with logical progression from concepts to implementation
+- **Reproducibility**: All code examples and procedures must be tested to ensure successful execution by readers
+- **Rigor & Reliability**: Prefer authoritative sources and clearly identify any assumptions or speculative statements
+- **Consistency**: Maintain uniform terminology, formatting, and style across all content
+- **Originality & Attribution**: Ensure zero plagiarism with proper APA-style citations for all external sources
+- **Code Standards**: All code examples must follow best practices, include necessary comments, and run without errors
+- **Format Requirements**: Content must be in Markdown format compatible with Docusaurus for GitHub Pages deployment
 
 ## Project Structure
 

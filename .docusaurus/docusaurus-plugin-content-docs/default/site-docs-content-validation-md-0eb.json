@@ -1,0 +1,14 @@
+{
+  "id": "content-validation",
+  "title": "Content Validation and Review Workflow",
+  "description": "Overview",
+  "source": "@site/docs/content-validation.md",
+  "sourceDirName": ".",
+  "slug": "/content-validation",
+  "permalink": "/Humanoid-Robotics-Book/docs/content-validation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

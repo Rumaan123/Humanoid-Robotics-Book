@@ -1,0 +1,26 @@
+{
+  "id": "conclusion",
+  "title": "Conclusion: Synthesis and Future Directions",
+  "description": "Bringing It All Together",
+  "source": "@site/docs/conclusion.md",
+  "sourceDirName": ".",
+  "slug": "/conclusion",
+  "permalink": "/Humanoid-Robotics-Book/docs/conclusion",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Capstone: Autonomous Humanoid Task Execution",
+    "permalink": "/Humanoid-Robotics-Book/docs/module-4/capstone-overview"
+  },
+  "next": {
+    "title": "References and Bibliography",
+    "permalink": "/Humanoid-Robotics-Book/docs/references"
+  }
+}

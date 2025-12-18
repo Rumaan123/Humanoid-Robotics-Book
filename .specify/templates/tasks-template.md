@@ -156,6 +156,11 @@ Examples of foundational tasks (adjust based on your project):
 - [ ] TXXX [P] Additional unit tests (if requested) in tests/unit/
 - [ ] TXXX Security hardening
 - [ ] TXXX Run quickstart.md validation
+- [ ] TXXX Verify all content meets Technical Accuracy standards per constitution
+- [ ] TXXX Confirm all code examples are reproducible and tested per constitution
+- [ ] TXXX Validate all sources are properly cited per constitution requirements
+- [ ] TXXX Ensure content meets readability standards (Flesch-Kincaid grade 10-12)
+- [ ] TXXX Verify Markdown format compatibility with Docusaurus
 
 ---
 

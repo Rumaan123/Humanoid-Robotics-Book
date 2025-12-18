@@ -1,0 +1,171 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/Humanoid-Robotics-Book/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/Humanoid-Robotics-Book/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "conclusion",
+              "path": "/Humanoid-Robotics-Book/docs/conclusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "content-validation",
+              "path": "/Humanoid-Robotics-Book/docs/content-validation"
+            },
+            {
+              "id": "intro",
+              "path": "/Humanoid-Robotics-Book/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/control-pipelines",
+              "path": "/Humanoid-Robotics-Book/docs/module-1/control-pipelines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/core-concepts",
+              "path": "/Humanoid-Robotics-Book/docs/module-1/core-concepts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/index",
+              "path": "/Humanoid-Robotics-Book/docs/module-1/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/python-control",
+              "path": "/Humanoid-Robotics-Book/docs/module-1/python-control",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/role-of-ros2",
+              "path": "/Humanoid-Robotics-Book/docs/module-1/role-of-ros2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1/urdf-modeling",
+              "path": "/Humanoid-Robotics-Book/docs/module-1/urdf-modeling",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/gazebo-simulation",
+              "path": "/Humanoid-Robotics-Book/docs/module-2/gazebo-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/index",
+              "path": "/Humanoid-Robotics-Book/docs/module-2/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/physics-simulation",
+              "path": "/Humanoid-Robotics-Book/docs/module-2/physics-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/purpose-of-digital-twins",
+              "path": "/Humanoid-Robotics-Book/docs/module-2/purpose-of-digital-twins",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/sensor-simulation",
+              "path": "/Humanoid-Robotics-Book/docs/module-2/sensor-simulation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2/unity-visualization",
+              "path": "/Humanoid-Robotics-Book/docs/module-2/unity-visualization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/index",
+              "path": "/Humanoid-Robotics-Book/docs/module-3/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/isaac-ros",
+              "path": "/Humanoid-Robotics-Book/docs/module-3/isaac-ros",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/isaac-sim",
+              "path": "/Humanoid-Robotics-Book/docs/module-3/isaac-sim",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/nav2-planning",
+              "path": "/Humanoid-Robotics-Book/docs/module-3/nav2-planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/perception-navigation",
+              "path": "/Humanoid-Robotics-Book/docs/module-3/perception-navigation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3/sim-to-real",
+              "path": "/Humanoid-Robotics-Book/docs/module-3/sim-to-real",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/capstone-overview",
+              "path": "/Humanoid-Robotics-Book/docs/module-4/capstone-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/cognitive-planning",
+              "path": "/Humanoid-Robotics-Book/docs/module-4/cognitive-planning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/index",
+              "path": "/Humanoid-Robotics-Book/docs/module-4/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/llm-integration",
+              "path": "/Humanoid-Robotics-Book/docs/module-4/llm-integration",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/multi-modal",
+              "path": "/Humanoid-Robotics-Book/docs/module-4/multi-modal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4/voice-action-pipelines",
+              "path": "/Humanoid-Robotics-Book/docs/module-4/voice-action-pipelines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module1-intro",
+              "path": "/Humanoid-Robotics-Book/docs/module1-intro"
+            },
+            {
+              "id": "references",
+              "path": "/Humanoid-Robotics-Book/docs/references",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/Humanoid-Robotics-Book/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

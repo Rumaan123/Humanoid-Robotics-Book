@@ -1,0 +1,26 @@
+{
+  "id": "module-1/role-of-ros2",
+  "title": "The Role of ROS 2 in Physical AI",
+  "description": "Overview",
+  "source": "@site/docs/module-1/role-of-ros2.md",
+  "sourceDirName": "module-1",
+  "slug": "/module-1/role-of-ros2",
+  "permalink": "/Humanoid-Robotics-Book/docs/module-1/role-of-ros2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Module 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/Humanoid-Robotics-Book/docs/module-1/"
+  },
+  "next": {
+    "title": "Core Concepts: Nodes, Topics, Services, and Actions",
+    "permalink": "/Humanoid-Robotics-Book/docs/module-1/core-concepts"
+  }
+}

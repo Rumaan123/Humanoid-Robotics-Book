@@ -1,0 +1,409 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/Humanoid-Robotics-Book/docs/intro",
+        "docId": "intro",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Module 1: The Robotic Nervous System (ROS 2)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 1: The Robotic Nervous System (ROS 2)",
+            "href": "/Humanoid-Robotics-Book/docs/module-1/",
+            "docId": "module-1/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "The Role of ROS 2 in Physical AI",
+            "href": "/Humanoid-Robotics-Book/docs/module-1/role-of-ros2",
+            "docId": "module-1/role-of-ros2",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Core Concepts: Nodes, Topics, Services, and Actions",
+            "href": "/Humanoid-Robotics-Book/docs/module-1/core-concepts",
+            "docId": "module-1/core-concepts",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Python-Based Robot Control: Understanding rclpy",
+            "href": "/Humanoid-Robotics-Book/docs/module-1/python-control",
+            "docId": "module-1/python-control",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Humanoid Robot Modeling with URDF: Unified Robot Description Format",
+            "href": "/Humanoid-Robotics-Book/docs/module-1/urdf-modeling",
+            "docId": "module-1/urdf-modeling",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Architectural View of Robot Control Pipelines: From Perception to Action",
+            "href": "/Humanoid-Robotics-Book/docs/module-1/control-pipelines",
+            "docId": "module-1/control-pipelines",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 2: The Digital Twin (Gazebo & Unity)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 2: The Digital Twin (Gazebo & Unity)",
+            "href": "/Humanoid-Robotics-Book/docs/module-2/",
+            "docId": "module-2/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Purpose of Digital Twins in Physical AI: Simulation-Driven Robot Development",
+            "href": "/Humanoid-Robotics-Book/docs/module-2/purpose-of-digital-twins",
+            "docId": "module-2/purpose-of-digital-twins",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Physics Simulation Concepts: Rigid Body Dynamics and Collision Handling",
+            "href": "/Humanoid-Robotics-Book/docs/module-2/physics-simulation",
+            "docId": "module-2/physics-simulation",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Environment and Robot Simulation using Gazebo: Physics-Based Digital Twins",
+            "href": "/Humanoid-Robotics-Book/docs/module-2/gazebo-simulation",
+            "docId": "module-2/gazebo-simulation",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Sensor Simulation: LiDAR, Depth Cameras, and IMUs for Physical AI Systems",
+            "href": "/Humanoid-Robotics-Book/docs/module-2/sensor-simulation",
+            "docId": "module-2/sensor-simulation",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Visualization and Interaction using Unity: Advanced 3D Rendering for Physical AI",
+            "href": "/Humanoid-Robotics-Book/docs/module-2/unity-visualization",
+            "docId": "module-2/unity-visualization",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+            "href": "/Humanoid-Robotics-Book/docs/module-3/",
+            "docId": "module-3/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Perception and Navigation for Humanoid Robots: Cognitive Systems and Spatial Reasoning",
+            "href": "/Humanoid-Robotics-Book/docs/module-3/perception-navigation",
+            "docId": "module-3/perception-navigation",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "NVIDIA Isaac Sim for Photorealistic Simulation: Synthetic Data and Environment Generation",
+            "href": "/Humanoid-Robotics-Book/docs/module-3/isaac-sim",
+            "docId": "module-3/isaac-sim",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Isaac ROS for Accelerated Perception and VSLAM: GPU-Accelerated Robotics Pipelines",
+            "href": "/Humanoid-Robotics-Book/docs/module-3/isaac-ros",
+            "docId": "module-3/isaac-ros",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Navigation and Path Planning with Nav2: Advanced Navigation Systems for Humanoid Robots",
+            "href": "/Humanoid-Robotics-Book/docs/module-3/nav2-planning",
+            "docId": "module-3/nav2-planning",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Sim-to-Real Transfer Concepts and Constraints: Bridging the Reality Gap",
+            "href": "/Humanoid-Robotics-Book/docs/module-3/sim-to-real",
+            "docId": "module-3/sim-to-real",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "category",
+        "label": "Module 4: Vision-Language-Action (VLA)",
+        "items": [
+          {
+            "type": "link",
+            "label": "Module 4: Vision-Language-Action (VLA)",
+            "href": "/Humanoid-Robotics-Book/docs/module-4/",
+            "docId": "module-4/index",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Integration of LLMs with Robotics Systems",
+            "href": "/Humanoid-Robotics-Book/docs/module-4/llm-integration",
+            "docId": "module-4/llm-integration",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Voice-to-Action Pipelines: Speech Recognition in Robotics",
+            "href": "/Humanoid-Robotics-Book/docs/module-4/voice-action-pipelines",
+            "docId": "module-4/voice-action-pipelines",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Cognitive Planning: From Natural Language to ROS 2 Actions",
+            "href": "/Humanoid-Robotics-Book/docs/module-4/cognitive-planning",
+            "docId": "module-4/cognitive-planning",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Multi-Modal Interaction: Vision, Speech, and Motion",
+            "href": "/Humanoid-Robotics-Book/docs/module-4/multi-modal",
+            "docId": "module-4/multi-modal",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "Capstone: Autonomous Humanoid Task Execution",
+            "href": "/Humanoid-Robotics-Book/docs/module-4/capstone-overview",
+            "docId": "module-4/capstone-overview",
+            "unlisted": false
+          }
+        ],
+        "collapsed": true,
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "Conclusion: Synthesis and Future Directions",
+        "href": "/Humanoid-Robotics-Book/docs/conclusion",
+        "docId": "conclusion",
+        "unlisted": false
+      },
+      {
+        "type": "link",
+        "label": "References and Bibliography",
+        "href": "/Humanoid-Robotics-Book/docs/references",
+        "docId": "references",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "conclusion": {
+      "id": "conclusion",
+      "title": "Conclusion: Synthesis and Future Directions",
+      "description": "Bringing It All Together",
+      "sidebar": "tutorialSidebar"
+    },
+    "content-validation": {
+      "id": "content-validation",
+      "title": "Content Validation and Review Workflow",
+      "description": "Overview"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "Welcome to the comprehensive guide on Physical AI and Humanoid Robotics. This book explores the integration of artificial intelligence with physical systems, bridging the gap between digital AI models and embodied intelligence in real-world applications.",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-1/control-pipelines": {
+      "id": "module-1/control-pipelines",
+      "title": "Architectural View of Robot Control Pipelines: From Perception to Action",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-1/core-concepts": {
+      "id": "module-1/core-concepts",
+      "title": "Core Concepts: Nodes, Topics, Services, and Actions",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-1/index": {
+      "id": "module-1/index",
+      "title": "Module 1: The Robotic Nervous System (ROS 2)",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-1/python-control": {
+      "id": "module-1/python-control",
+      "title": "Python-Based Robot Control: Understanding rclpy",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-1/role-of-ros2": {
+      "id": "module-1/role-of-ros2",
+      "title": "The Role of ROS 2 in Physical AI",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-1/urdf-modeling": {
+      "id": "module-1/urdf-modeling",
+      "title": "Humanoid Robot Modeling with URDF: Unified Robot Description Format",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-2/gazebo-simulation": {
+      "id": "module-2/gazebo-simulation",
+      "title": "Environment and Robot Simulation using Gazebo: Physics-Based Digital Twins",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-2/index": {
+      "id": "module-2/index",
+      "title": "Module 2: The Digital Twin (Gazebo & Unity)",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-2/physics-simulation": {
+      "id": "module-2/physics-simulation",
+      "title": "Physics Simulation Concepts: Rigid Body Dynamics and Collision Handling",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-2/purpose-of-digital-twins": {
+      "id": "module-2/purpose-of-digital-twins",
+      "title": "Purpose of Digital Twins in Physical AI: Simulation-Driven Robot Development",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-2/sensor-simulation": {
+      "id": "module-2/sensor-simulation",
+      "title": "Sensor Simulation: LiDAR, Depth Cameras, and IMUs for Physical AI Systems",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-2/unity-visualization": {
+      "id": "module-2/unity-visualization",
+      "title": "Visualization and Interaction using Unity: Advanced 3D Rendering for Physical AI",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-3/index": {
+      "id": "module-3/index",
+      "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-3/isaac-ros": {
+      "id": "module-3/isaac-ros",
+      "title": "Isaac ROS for Accelerated Perception and VSLAM: GPU-Accelerated Robotics Pipelines",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-3/isaac-sim": {
+      "id": "module-3/isaac-sim",
+      "title": "NVIDIA Isaac Sim for Photorealistic Simulation: Synthetic Data and Environment Generation",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-3/nav2-planning": {
+      "id": "module-3/nav2-planning",
+      "title": "Navigation and Path Planning with Nav2: Advanced Navigation Systems for Humanoid Robots",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-3/perception-navigation": {
+      "id": "module-3/perception-navigation",
+      "title": "Perception and Navigation for Humanoid Robots: Cognitive Systems and Spatial Reasoning",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-3/sim-to-real": {
+      "id": "module-3/sim-to-real",
+      "title": "Sim-to-Real Transfer Concepts and Constraints: Bridging the Reality Gap",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4/capstone-overview": {
+      "id": "module-4/capstone-overview",
+      "title": "Capstone: Autonomous Humanoid Task Execution",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4/cognitive-planning": {
+      "id": "module-4/cognitive-planning",
+      "title": "Cognitive Planning: From Natural Language to ROS 2 Actions",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4/index": {
+      "id": "module-4/index",
+      "title": "Module 4: Vision-Language-Action (VLA)",
+      "description": "Overview",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4/llm-integration": {
+      "id": "module-4/llm-integration",
+      "title": "Integration of LLMs with Robotics Systems",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4/multi-modal": {
+      "id": "module-4/multi-modal",
+      "title": "Multi-Modal Interaction: Vision, Speech, and Motion",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "module-4/voice-action-pipelines": {
+      "id": "module-4/voice-action-pipelines",
+      "title": "Voice-to-Action Pipelines: Speech Recognition in Robotics",
+      "description": "Introduction",
+      "sidebar": "tutorialSidebar"
+    },
+    "module1-intro": {
+      "id": "module1-intro",
+      "title": "[Title of the Content]",
+      "description": "Overview"
+    },
+    "references": {
+      "id": "references",
+      "title": "References and Bibliography",
+      "description": "Official Documentation and Specifications",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

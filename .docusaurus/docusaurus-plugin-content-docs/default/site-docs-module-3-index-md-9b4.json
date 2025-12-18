@@ -1,0 +1,26 @@
+{
+  "id": "module-3/index",
+  "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
+  "description": "Overview",
+  "source": "@site/docs/module-3/index.md",
+  "sourceDirName": "module-3",
+  "slug": "/module-3/",
+  "permalink": "/Humanoid-Robotics-Book/docs/module-3/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Visualization and Interaction using Unity: Advanced 3D Rendering for Physical AI",
+    "permalink": "/Humanoid-Robotics-Book/docs/module-2/unity-visualization"
+  },
+  "next": {
+    "title": "Perception and Navigation for Humanoid Robots: Cognitive Systems and Spatial Reasoning",
+    "permalink": "/Humanoid-Robotics-Book/docs/module-3/perception-navigation"
+  }
+}
