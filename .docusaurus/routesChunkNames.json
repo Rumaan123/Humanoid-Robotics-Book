@@ -1,13 +1,129 @@
 {
-  "/Humanoid-Robotics-Book/docs-f66": {
+  "/Humanoid-Robotics-Book/docs-cec": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "b67f1e85"
     }
   },
-  "/Humanoid-Robotics-Book/docs-29c": {
+  "/Humanoid-Robotics-Book/docs-beb": {
     "__comp": "a7bd4aaa",
     "version": "935f2afb"
+  },
+  "/Humanoid-Robotics-Book/docs/tags-232": {
+    "__comp": "3720c009",
+    "tags": "55960ee5"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/actions-cf1": {
+    "__comp": "df203c0f",
+    "tag": "9f81882c"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/ai-7af": {
+    "__comp": "df203c0f",
+    "tag": "349f44dd"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/bibliography-009": {
+    "__comp": "df203c0f",
+    "tag": "a3949e08"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/citations-065": {
+    "__comp": "df203c0f",
+    "tag": "0d043a78"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/cognitive-da8": {
+    "__comp": "df203c0f",
+    "tag": "41a6b0db"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/communication-c52": {
+    "__comp": "df203c0f",
+    "tag": "ee477c77"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/conclusion-225": {
+    "__comp": "df203c0f",
+    "tag": "d5d8e477"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/digital-twin-4e8": {
+    "__comp": "df203c0f",
+    "tag": "9024bf8a"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/education-a33": {
+    "__comp": "df203c0f",
+    "tag": "d9e4e61e"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/gazebo-cd0": {
+    "__comp": "df203c0f",
+    "tag": "bc395120"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/interaction-f16": {
+    "__comp": "df203c0f",
+    "tag": "1982159b"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/isaac-c68": {
+    "__comp": "df203c0f",
+    "tag": "b27805c9"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/learning-objectives-22a": {
+    "__comp": "df203c0f",
+    "tag": "163c2490"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/middleware-65f": {
+    "__comp": "df203c0f",
+    "tag": "7402e1b8"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/navigation-f52": {
+    "__comp": "df203c0f",
+    "tag": "d1690c6b"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/nodes-853": {
+    "__comp": "df203c0f",
+    "tag": "e6aab796"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/perception-635": {
+    "__comp": "df203c0f",
+    "tag": "677c27d5"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/physical-ai-746": {
+    "__comp": "df203c0f",
+    "tag": "3fb59962"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/references-cda": {
+    "__comp": "df203c0f",
+    "tag": "5fce57b5"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/robotics-465": {
+    "__comp": "df203c0f",
+    "tag": "83fc22e1"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/ros-2-4ee": {
+    "__comp": "df203c0f",
+    "tag": "d5bf8d00"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/services-618": {
+    "__comp": "df203c0f",
+    "tag": "825a3f47"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/simulation-01c": {
+    "__comp": "df203c0f",
+    "tag": "4247427c"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/sources-c7a": {
+    "__comp": "df203c0f",
+    "tag": "54df68ac"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/synthesis-b32": {
+    "__comp": "df203c0f",
+    "tag": "3a8cbffb"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/topics-18a": {
+    "__comp": "df203c0f",
+    "tag": "5c69d9e8"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/unity-060": {
+    "__comp": "df203c0f",
+    "tag": "02f9ae4c"
+  },
+  "/Humanoid-Robotics-Book/docs/tags/vla-157": {
+    "__comp": "df203c0f",
+    "tag": "f9dbd13b"
   },
   "/Humanoid-Robotics-Book/docs-efd": {
     "__comp": "a94703ab"

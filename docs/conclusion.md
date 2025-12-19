@@ -1,5 +1,10 @@
 ---
-sidebar_position: 5
+title: Conclusion
+description: Synthesis of Physical AI concepts and path forward
+sidebar_label: Conclusion
+sidebar_position: 26
+tags: [conclusion, synthesis, physical-ai, robotics]
+draft: false
 ---
 
 # Conclusion: Synthesis and Future Directions

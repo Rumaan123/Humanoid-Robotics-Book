@@ -1,5 +1,10 @@
 ---
-sidebar_position: 2
+title: Module 2 - The Digital Twin (Gazebo & Unity)
+description: Introduction to digital twins and simulation for humanoid robotics systems
+sidebar_label: Module 2 Overview
+sidebar_position: 8
+tags: [gazebo, unity, simulation, digital-twin, robotics, education, learning-objectives]
+draft: false
 ---
 
 # Module 2: The Digital Twin (Gazebo & Unity)
@@ -13,6 +18,22 @@ Digital twins in robotics provide essential capabilities for simulating complex 
 ## Learning Objectives
 
 By the end of this module, you should be able to:
+
+- Explain the purpose of digital twins in Physical AI and their role in safe robot development
+- Describe the key concepts in physics simulation: gravity, collisions, and dynamics
+- Understand the fundamentals of environment and robot simulation using Gazebo
+- Explain sensor simulation for LiDAR, depth cameras, and IMUs
+- Describe visualization and interaction using Unity in the context of robotics
+
+### Learning Objectives for Educators
+
+For curriculum development and assessment purposes, this module addresses:
+
+- **LO-M2-001**: Students will be able to explain the purpose of digital twins in Physical AI for Module 2
+- **LO-M2-002**: Students will be able to describe physics simulation concepts: gravity, collisions, and dynamics
+- **LO-M2-003**: Students will understand environment and robot simulation using Gazebo conceptually
+- **LO-M2-004**: Students will be able to explain sensor simulation: LiDAR, depth cameras, and IMUs
+- **LO-M2-005**: Students will be able to describe visualization and interaction using Unity
 
 ### FR-006: Understand the purpose of digital twins in Physical AI
 - Explain the concept of digital twins and their role in Physical AI development

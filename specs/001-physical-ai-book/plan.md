@@ -56,7 +56,7 @@ docs/
 ├── intro.md                    # Introduction to Physical AI and embodied intelligence
 ├── module-1/
 │   ├── index.md                # Module 1 overview: The Robotic Nervous System (ROS 2)
-│   ├── role-of-ros2.md         # Role of ROS 2 as middleware for humanoid robots
+│   ├── role-of-ros2.md         # Role of ROS 2 as middleware for humanoid robot systems
 │   ├── core-concepts.md        # Core concepts: nodes, topics, services, and actions
 │   ├── python-control.md       # Python-based robot control using rclpy
 │   ├── urdf-modeling.md        # Humanoid robot modeling with URDF

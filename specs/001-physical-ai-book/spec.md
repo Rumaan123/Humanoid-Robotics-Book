@@ -25,7 +25,7 @@ Book goals:
 Modules:
 
 Module 1: The Robotic Nervous System (ROS 2)
-- Role of ROS 2 as middleware for humanoid robots
+- Role of ROS 2 as middleware for humanoid robot systems
 - Core concepts: nodes, topics, services, and actions
 - Python-based robot control using rclpy
 - Humanoid robot modeling with URDF
@@ -74,7 +74,7 @@ Not building:
 
 ### User Story 1 - Book Reader Learning Physical AI Concepts (Priority: P1)
 
-As an advanced AI and robotics student, I want to understand the complete pipeline from digital AI models to physical robotic systems, so I can bridge the gap between theoretical AI and embodied intelligence in real-world applications.
+As an advanced AI and robotics student, I want to understand the complete pipeline from digital AI models to physical humanoid robot systems, so I can bridge the gap between theoretical AI and embodied intelligence in real-world applications.
 
 **Why this priority**: This is the core value proposition of the book - helping readers understand the complete Physical AI pipeline from simulation to real-world deployment.
 
@@ -124,7 +124,7 @@ As a software engineer entering Physical AI and robotics, I want to understand t
 
 ### Functional Requirements
 
-- **FR-001**: Book content MUST explain the role of ROS 2 as middleware for humanoid robots conceptually without implementation details
+- **FR-001**: Book content MUST explain the role of ROS 2 as middleware for humanoid robot systems conceptually without implementation details
 - **FR-002**: Book content MUST cover core ROS 2 concepts: nodes, topics, services, and actions in architectural context
 - **FR-003**: Book content MUST describe Python-based robot control using rclpy at conceptual level without code examples
 - **FR-004**: Book content MUST explain humanoid robot modeling with URDF in architectural context

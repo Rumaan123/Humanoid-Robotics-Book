@@ -75,9 +75,9 @@ Physical AI represents the integration of artificial intelligence with physical 
 
 The Physical AI ecosystem encompasses several key technology areas:
 
-1. **Middleware (ROS 2)**: Provides communication infrastructure for distributed robotic systems
+1. **Middleware (ROS 2)**: Provides communication infrastructure for distributed humanoid robot systems
 2. **Simulation (Gazebo/Unity)**: Enables development and testing in virtual environments
-3. **Perception (Isaac)**: Computer vision and sensor processing for environmental understanding
+3. **Perception (NVIDIA Isaac™)**: Computer vision and sensor processing for environmental understanding
 4. **Cognition (VLA)**: Higher-level decision making and natural language interaction
 
 ### Authoritative Sources Identified
@@ -96,7 +96,7 @@ The book follows a logical progression from foundational concepts to advanced in
 
 1. **Module 1**: Establishes the communication and control foundation (ROS 2)
 2. **Module 2**: Introduces virtual environments for development and testing (Gazebo/Unity)
-3. **Module 3**: Adds perception and navigation capabilities (Isaac)
+3. **Module 3**: Adds perception and navigation capabilities (NVIDIA Isaac™)
 4. **Module 4**: Integrates cognitive functions and human interaction (VLA)
 
 ### Quality Standards Compliance

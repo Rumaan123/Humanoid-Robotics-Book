@@ -1,5 +1,10 @@
 ---
+title: Module 1 - The Robotic Nervous System (ROS 2)
+description: Introduction to ROS 2 as the middleware for humanoid robotics systems
+sidebar_label: Module 1 Overview
 sidebar_position: 2
+tags: [ros2, middleware, communication, robotics, education, learning-objectives]
+draft: false
 ---
 
 # Module 1: The Robotic Nervous System (ROS 2)
@@ -13,6 +18,23 @@ ROS 2 provides the essential infrastructure for developing complex robotic syste
 ## Learning Objectives
 
 By the end of this module, you should be able to:
+
+- Explain the role of ROS 2 as middleware for humanoid robot systems and its significance in Physical AI
+- Describe and differentiate between ROS 2 nodes, topics, services, and actions
+- Understand the fundamentals of rclpy and its role in Python-based robot control
+- Explain the principles of URDF for humanoid robot modeling
+- Comprehend the architectural view of robot control pipelines
+
+### Learning Objectives for Educators
+
+For curriculum development and assessment purposes, this module addresses:
+
+- **LO-M1-001**: Students will be able to explain the role of ROS 2 as middleware for humanoid robot systems and its significance in Physical AI
+- **LO-M1-002**: Students will be able to describe and differentiate between ROS 2 nodes, topics, services, and actions
+- **LO-M1-003**: Students will understand the DDS communication model and its impact on distributed robotics systems
+- **LO-M1-004**: Students will understand the fundamentals of rclpy and its role in Python-based robot control
+- **LO-M1-005**: Students will understand the principles of URDF for humanoid robot modeling
+- **LO-M1-006**: Students will comprehend the architectural view of robot control pipelines
 
 ### FR-001: Understand the role of ROS 2 as middleware for humanoid robot communication
 - Explain how ROS 2 serves as the communication infrastructure for Physical AI systems

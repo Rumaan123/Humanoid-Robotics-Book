@@ -1,5 +1,10 @@
 ---
-sidebar_position: 6
+title: References and Bibliography
+description: Authoritative sources and citations used throughout the book
+sidebar_label: References
+sidebar_position: 27
+tags: [references, bibliography, citations, sources]
+draft: false
 ---
 
 # References and Bibliography

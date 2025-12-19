@@ -1,5 +1,10 @@
 ---
-sidebar_position: 4
+title: Module 4 - Vision-Language-Action (VLA)
+description: Introduction to cognitive interaction and integration in humanoid robotics
+sidebar_label: Module 4 Overview
+sidebar_position: 20
+tags: [vla, cognitive, interaction, robotics, education, learning-objectives]
+draft: false
 ---
 
 # Module 4: Vision-Language-Action (VLA)
@@ -11,6 +16,22 @@ Module 4 introduces the Vision-Language-Action (VLA) paradigm, representing the 
 ## Learning Objectives
 
 By the end of this module, students will be able to:
+
+- Describe integration of LLMs with robotics systems in Module 4
+- Explain voice-to-action pipelines using speech recognition
+- Cover cognitive planning from natural language to ROS 2 actions
+- Explain multi-modal interaction: vision, speech, and motion
+- Understand the capstone overview of autonomous humanoid task execution
+
+### Learning Objectives for Educators
+
+For curriculum development and assessment purposes, this module addresses:
+
+- **LO-M4-001**: Students will be able to describe integration of LLMs with robotics systems in Module 4
+- **LO-M4-002**: Students will be able to explain voice-to-action pipelines using speech recognition
+- **LO-M4-003**: Students will cover cognitive planning from natural language to ROS 2 actions
+- **LO-M4-004**: Students will be able to explain multi-modal interaction: vision, speech, and motion
+- **LO-M4-005**: Students will understand the capstone overview of autonomous humanoid task execution
 
 **FR-016: LLM Integration**: Understand how large language models integrate with robotics systems and implement appropriate architectural patterns for real-time robotic applications.
 

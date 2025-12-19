@@ -7,7 +7,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://Rumaan123.github.io',
-  baseUrl: '/',
+  baseUrl: '/Humanoid-Robotics-Book/',
 
   organizationName: 'Rumaan123',
   projectName: 'Humanoid-Robotics-Book',

@@ -1,10 +1,39 @@
 ---
+title: Core Concepts - Nodes, Topics, Services, and Actions
+description: Understanding the fundamental communication patterns in ROS 2
+sidebar_label: Core Concepts
 sidebar_position: 4
+tags: [ros2, nodes, topics, services, actions, communication, education]
+draft: false
 ---
 
 # Core Concepts: Nodes, Topics, Services, and Actions
 
 ## Overview
+
+**Suggested Teaching Time**: 60-75 minutes
+
+This topic covers the fundamental communication patterns in ROS 2, which are essential for developing distributed robotic systems. Students will understand the differences between the various communication mechanisms and when to use each one.
+
+### Discussion Questions for Classroom Use
+
+1. When should you use topics versus services for robot communication?
+2. What are the advantages and disadvantages of using actions compared to services?
+3. How do nodes communicate with each other in a distributed ROS 2 system?
+4. What happens when a node publishing on a topic is not available?
+
+### Key Takeaways for Students
+
+- Nodes are the fundamental execution units in ROS 2
+- Topics enable asynchronous, many-to-many communication
+- Services provide synchronous, request-response communication
+- Actions are for long-running tasks with feedback and goal management
+
+### Assessment Ideas for Educators
+
+- Diagramming exercises showing different communication patterns
+- Scenario-based questions asking students to select appropriate communication methods
+- Analysis of existing ROS 2 system architectures
 
 The core communication patterns in ROS 2 form the foundation of all robotic applications. Understanding nodes, topics, services, and actions is essential for developing Physical AI systems that integrate perception, cognition, and action. These patterns provide the architectural building blocks for distributed robotic systems.
 

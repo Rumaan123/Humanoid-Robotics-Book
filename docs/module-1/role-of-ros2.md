@@ -1,10 +1,31 @@
 ---
+title: The Role of ROS 2 in Physical AI
+description: Understanding how ROS 2 serves as middleware for humanoid robotics systems
+sidebar_label: Role of ROS 2
 sidebar_position: 3
+tags: [ros2, middleware, physical-ai, communication]
+draft: false
 ---
 
 # The Role of ROS 2 in Physical AI
 
 ## Overview
+
+**Suggested Teaching Time**: 45-60 minutes
+
+This topic introduces the fundamental role of ROS 2 as middleware in Physical AI systems and is foundational for understanding the entire module.
+
+## Discussion Questions for Classroom Use
+
+1. How does ROS 2's middleware architecture enable distributed robotics systems?
+2. What are the trade-offs between different communication patterns in ROS 2?
+3. Why is the distributed nature of ROS 2 important for humanoid robot systems?
+
+## Key Takeaways for Students
+
+- ROS 2 provides a standardized communication framework for complex robotic systems
+- Understanding communication patterns is crucial for effective robot design
+- The middleware architecture enables modularity and scalability in robot development
 
 Robot Operating System 2 (ROS 2) serves as the foundational middleware that enables the integration of artificial intelligence with physical robotic systems. In the context of Physical AI, ROS 2 is not merely a communication framework, but a critical enabler of embodied intelligence, facilitating the flow of information between perception, cognition, and action.
 

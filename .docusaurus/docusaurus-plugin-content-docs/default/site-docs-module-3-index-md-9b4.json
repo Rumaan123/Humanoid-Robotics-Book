@@ -1,18 +1,60 @@
 {
   "id": "module-3/index",
-  "title": "Module 3: The AI-Robot Brain (NVIDIA Isaac™)",
-  "description": "Overview",
+  "title": "Module 3 - The AI-Robot Brain (NVIDIA Isaac™)",
+  "description": "Introduction to AI perception and navigation for humanoid robotics",
   "source": "@site/docs/module-3/index.md",
   "sourceDirName": "module-3",
   "slug": "/module-3/",
   "permalink": "/Humanoid-Robotics-Book/docs/module-3/",
   "draft": false,
   "unlisted": false,
-  "tags": [],
+  "tags": [
+    {
+      "label": "isaac",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/isaac"
+    },
+    {
+      "label": "ai",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/ai"
+    },
+    {
+      "label": "perception",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/perception"
+    },
+    {
+      "label": "navigation",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/navigation"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/robotics"
+    },
+    {
+      "label": "education",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/education"
+    },
+    {
+      "label": "learning-objectives",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/learning-objectives"
+    }
+  ],
   "version": "current",
-  "sidebarPosition": 3,
+  "sidebarPosition": 14,
   "frontMatter": {
-    "sidebar_position": 3
+    "title": "Module 3 - The AI-Robot Brain (NVIDIA Isaac™)",
+    "description": "Introduction to AI perception and navigation for humanoid robotics",
+    "sidebar_label": "Module 3 Overview",
+    "sidebar_position": 14,
+    "tags": [
+      "isaac",
+      "ai",
+      "perception",
+      "navigation",
+      "robotics",
+      "education",
+      "learning-objectives"
+    ],
+    "draft": false
   },
   "sidebar": "tutorialSidebar",
   "previous": {

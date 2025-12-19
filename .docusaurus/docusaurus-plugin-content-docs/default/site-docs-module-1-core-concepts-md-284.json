@@ -1,22 +1,64 @@
 {
   "id": "module-1/core-concepts",
-  "title": "Core Concepts: Nodes, Topics, Services, and Actions",
-  "description": "Overview",
+  "title": "Core Concepts - Nodes, Topics, Services, and Actions",
+  "description": "Understanding the fundamental communication patterns in ROS 2",
   "source": "@site/docs/module-1/core-concepts.md",
   "sourceDirName": "module-1",
   "slug": "/module-1/core-concepts",
   "permalink": "/Humanoid-Robotics-Book/docs/module-1/core-concepts",
   "draft": false,
   "unlisted": false,
-  "tags": [],
+  "tags": [
+    {
+      "label": "ros2",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/ros-2"
+    },
+    {
+      "label": "nodes",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/nodes"
+    },
+    {
+      "label": "topics",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/topics"
+    },
+    {
+      "label": "services",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/services"
+    },
+    {
+      "label": "actions",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/actions"
+    },
+    {
+      "label": "communication",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/communication"
+    },
+    {
+      "label": "education",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/education"
+    }
+  ],
   "version": "current",
   "sidebarPosition": 4,
   "frontMatter": {
-    "sidebar_position": 4
+    "title": "Core Concepts - Nodes, Topics, Services, and Actions",
+    "description": "Understanding the fundamental communication patterns in ROS 2",
+    "sidebar_label": "Core Concepts",
+    "sidebar_position": 4,
+    "tags": [
+      "ros2",
+      "nodes",
+      "topics",
+      "services",
+      "actions",
+      "communication",
+      "education"
+    ],
+    "draft": false
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "The Role of ROS 2 in Physical AI",
+    "title": "Role of ROS 2",
     "permalink": "/Humanoid-Robotics-Book/docs/module-1/role-of-ros2"
   },
   "next": {

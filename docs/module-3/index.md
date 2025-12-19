@@ -1,5 +1,10 @@
 ---
-sidebar_position: 3
+title: Module 3 - The AI-Robot Brain (NVIDIA Isaac™)
+description: Introduction to AI perception and navigation for humanoid robotics
+sidebar_label: Module 3 Overview
+sidebar_position: 14
+tags: [isaac, ai, perception, navigation, robotics, education, learning-objectives]
+draft: false
 ---
 
 # Module 3: The AI-Robot Brain (NVIDIA Isaac™)
@@ -13,6 +18,22 @@ NVIDIA Isaac™ provides a comprehensive platform for developing AI-powered robo
 ## Learning Objectives
 
 By the end of this module, you should be able to:
+
+- Explain perception and navigation for humanoid robots in the context of Physical AI
+- Describe NVIDIA Isaac Sim for photorealistic simulation conceptually
+- Explain Isaac ROS for accelerated perception and VSLAM
+- Understand navigation and path planning with Nav2
+- Describe sim-to-real transfer concepts and constraints
+
+### Learning Objectives for Educators
+
+For curriculum development and assessment purposes, this module addresses:
+
+- **LO-M3-001**: Students will be able to explain perception and navigation for humanoid robots in Module 3
+- **LO-M3-002**: Students will be able to describe NVIDIA Isaac Sim for photorealistic simulation conceptually
+- **LO-M3-003**: Students will understand Isaac ROS for accelerated perception and VSLAM
+- **LO-M3-004**: Students will be able to cover navigation and path planning with Nav2
+- **LO-M3-005**: Students will be able to explain sim-to-real transfer concepts and constraints
 
 ### FR-011: Understand perception and navigation for humanoid robots
 - Implement computer vision algorithms for humanoid robot perception

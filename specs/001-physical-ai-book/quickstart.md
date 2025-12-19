@@ -5,7 +5,7 @@ This quickstart guide provides a high-level introduction to the Physical AI & Hu
 
 ## Project Goals
 - Create a comprehensive resource on Physical AI and embodied intelligence
-- Bridge the gap between digital AI models and physical robotic systems
+- Bridge the gap between digital AI models and physical humanoid robot systems
 - Provide conceptual and architectural understanding without implementation details
 - Support the four official course modules with structured content
 - Deploy via Docusaurus on GitHub Pages

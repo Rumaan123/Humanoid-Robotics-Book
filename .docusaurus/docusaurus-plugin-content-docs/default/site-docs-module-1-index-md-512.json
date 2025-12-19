@@ -1,18 +1,55 @@
 {
   "id": "module-1/index",
-  "title": "Module 1: The Robotic Nervous System (ROS 2)",
-  "description": "Overview",
+  "title": "Module 1 - The Robotic Nervous System (ROS 2)",
+  "description": "Introduction to ROS 2 as the middleware for humanoid robotics systems",
   "source": "@site/docs/module-1/index.md",
   "sourceDirName": "module-1",
   "slug": "/module-1/",
   "permalink": "/Humanoid-Robotics-Book/docs/module-1/",
   "draft": false,
   "unlisted": false,
-  "tags": [],
+  "tags": [
+    {
+      "label": "ros2",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/ros-2"
+    },
+    {
+      "label": "middleware",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/middleware"
+    },
+    {
+      "label": "communication",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/communication"
+    },
+    {
+      "label": "robotics",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/robotics"
+    },
+    {
+      "label": "education",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/education"
+    },
+    {
+      "label": "learning-objectives",
+      "permalink": "/Humanoid-Robotics-Book/docs/tags/learning-objectives"
+    }
+  ],
   "version": "current",
   "sidebarPosition": 2,
   "frontMatter": {
-    "sidebar_position": 2
+    "title": "Module 1 - The Robotic Nervous System (ROS 2)",
+    "description": "Introduction to ROS 2 as the middleware for humanoid robotics systems",
+    "sidebar_label": "Module 1 Overview",
+    "sidebar_position": 2,
+    "tags": [
+      "ros2",
+      "middleware",
+      "communication",
+      "robotics",
+      "education",
+      "learning-objectives"
+    ],
+    "draft": false
   },
   "sidebar": "tutorialSidebar",
   "previous": {
@@ -20,7 +57,7 @@
     "permalink": "/Humanoid-Robotics-Book/docs/intro"
   },
   "next": {
-    "title": "The Role of ROS 2 in Physical AI",
+    "title": "Role of ROS 2",
     "permalink": "/Humanoid-Robotics-Book/docs/module-1/role-of-ros2"
   }
 }
