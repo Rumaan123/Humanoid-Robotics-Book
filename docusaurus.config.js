@@ -1,4 +1,4 @@
-// @ts-check
+
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -7,13 +7,13 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://Rumaan123.github.io',
-  baseUrl: '/Humanoid-Robotics-Book/',
+  baseUrl: '/',
 
   organizationName: 'Rumaan123',
   projectName: 'Humanoid-Robotics-Book',
 
   trailingSlash: false,
-  deploymentBranch: 'gh-pages',
+  //deploymentBranch: 'gh-pages',
   
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
